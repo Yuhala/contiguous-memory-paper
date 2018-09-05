@@ -1,0 +1,496 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{gandhi10}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Adams}{A.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Agesen}{A.}%
+     {Ole}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \keyw{MMU, SVM, TLB, VT, dynamic binary translation, nested paging, virtual
+  machine monitor, virtualization, x86}
+  \strng{namehash}{AKAO1}
+  \strng{fullhash}{AKAO1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1145/1168919.1168860
+  \endverb
+  \field{issn}{0163-5964}
+  \field{number}{5}
+  \field{pages}{2\bibrangedash 13}
+  \field{title}{A Comparison of Software and Hardware Techniques for x86
+  Virtualization}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/1168919.1168860
+  \endverb
+  \field{volume}{34}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGARCH Comput. Archit. News}
+  \field{month}{10}
+  \field{year}{2006}
+\endentry
+
+\entry{revisit}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Ahn}{A.}%
+     {Jeongseob}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jin}{J.}%
+     {Seongwook}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huh}{H.}%
+     {Jaehyuk}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{AJJSHJ1}
+  \strng{fullhash}{AJJSHJ1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1145/2366231.2337214
+  \endverb
+  \field{issn}{0163-5964}
+  \field{number}{3}
+  \field{pages}{476\bibrangedash 487}
+  \field{title}{Revisiting Hardware-assisted Page Walks for Virtualized
+  Systems}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/2366231.2337214
+  \endverb
+  \field{volume}{40}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGARCH Comput. Archit. News}
+  \field{month}{06}
+  \field{year}{2012}
+\endentry
+
+\entry{dvmt}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Alam}{A.}%
+     {Hanna}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {Tianhao}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Erez}{E.}%
+     {Mattan}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Etsion}{E.}%
+     {Yoav}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \keyw{TLB, address translation, virtual machines, virtual memory}
+  \strng{namehash}{AH+1}
+  \strng{fullhash}{AHZTEMEY1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1145/3140659.3080209
+  \endverb
+  \field{issn}{0163-5964}
+  \field{number}{2}
+  \field{pages}{457\bibrangedash 468}
+  \field{title}{Do-It-Yourself Virtual Memory Translation}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/3140659.3080209
+  \endverb
+  \field{volume}{45}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGARCH Comput. Archit. News}
+  \field{month}{06}
+  \field{year}{2017}
+\endentry
+
+\entry{gandhi19}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Bhargava}{B.}%
+     {Ravi}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Serebrin}{S.}%
+     {Benjamin}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spadini}{S.}%
+     {Francesco}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manne}{M.}%
+     {Srilatha}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \keyw{AMD, TLB, hypervisor, memory management, nested paging, page walk
+  caching, virtual machine monitor, virtualization}
+  \strng{namehash}{BR+1}
+  \strng{fullhash}{BRSBSFMS1}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1145/1353536.1346286
+  \endverb
+  \field{issn}{0362-1340}
+  \field{number}{3}
+  \field{pages}{26\bibrangedash 35}
+  \field{title}{Accelerating Two-dimensional Page Walks for Virtualized
+  Systems}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/1353536.1346286
+  \endverb
+  \field{volume}{43}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGPLAN Not.}
+  \field{month}{03}
+  \field{year}{2008}
+\endentry
+
+\entry{gandhi7}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Corbet}{C.}%
+     {Jonathan}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{pv,hvm}
+  \strng{namehash}{CJ1}
+  \strng{fullhash}{CJ1}
+  \field{sortinit}{C}
+  \field{addendum}{(accessed: 13.08.2018)}
+  \field{title}{Memory Compaction}
+  \verb{url}
+  \verb http://lwn.net/Articles/368869/
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{gandhi}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Gandhi}{G.}%
+     {Jayneel}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Basu}{B.}%
+     {Arkaprava}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hill}{H.}%
+     {Mark~D.}{M.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swift}{S.}%
+     {Michael~M.}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE Computer Society}%
+  }
+  \keyw{translation lookaside buffer, virtual machines, virtual memory,
+  virtualization}
+  \strng{namehash}{GJ+1}
+  \strng{fullhash}{GJBAHMDSMM1}
+  \field{sortinit}{G}
+  \field{booktitle}{Proceedings of the 47th Annual IEEE/ACM International
+  Symposium on Microarchitecture}
+  \verb{doi}
+  \verb 10.1109/MICRO.2014.37
+  \endverb
+  \field{isbn}{978-1-4799-6998-2}
+  \field{pages}{178\bibrangedash 189}
+  \field{series}{MICRO-47}
+  \field{title}{Efficient Memory Virtualization: Reducing Dimensionality of
+  Nested Page Walks}
+  \verb{url}
+  \verb http://dx.doi.org/10.1109/MICRO.2014.37
+  \endverb
+  \list{location}{1}{%
+    {Cambridge, United Kingdom}%
+  }
+  \field{year}{2014}
+  \warn{\item Can't use 'location' + 'address'}
+\endentry
+
+\entry{gandhi82}{inproceedings}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Pham}{P.}%
+     {Binh}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vaidyanathan}{V.}%
+     {Viswanathan}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jaleel}{J.}%
+     {Aamer}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bhattacharjee}{B.}%
+     {Abhishek}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE Computer Society}%
+  }
+  \strng{namehash}{PB+1}
+  \strng{fullhash}{PBVVJABA1}
+  \field{sortinit}{P}
+  \field{booktitle}{Proceedings of the 2012 45th Annual IEEE/ACM International
+  Symposium on Microarchitecture}
+  \verb{doi}
+  \verb 10.1109/MICRO.2012.32
+  \endverb
+  \field{isbn}{978-0-7695-4924-8}
+  \field{pages}{258\bibrangedash 269}
+  \field{series}{MICRO-45}
+  \field{title}{CoLT: Coalesced Large-Reach TLBs}
+  \verb{url}
+  \verb https://doi.org/10.1109/MICRO.2012.32
+  \endverb
+  \list{location}{1}{%
+    {Vancouver, B.C., CANADA}%
+  }
+  \field{year}{2012}
+  \warn{\item Can't use 'location' + 'address'}
+\endentry
+
+\entry{gandhi81}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Swanson}{S.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stoller}{S.}%
+     {Leigh}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carter}{C.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{SMSLCJ1}
+  \strng{fullhash}{SMSLCJ1}
+  \field{sortinit}{S}
+  \verb{doi}
+  \verb 10.1145/279361.279388
+  \endverb
+  \field{issn}{0163-5964}
+  \field{number}{3}
+  \field{pages}{204\bibrangedash 213}
+  \field{title}{Increasing TLB Reach Using Superpages Backed by Shadow Memory}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/279361.279388
+  \endverb
+  \field{volume}{26}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGARCH Comput. Archit. News}
+  \field{month}{04}
+  \field{year}{1998}
+\endentry
+
+\entry{gandhi96}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Talluri}{T.}%
+     {Madhusudhan}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hill}{H.}%
+     {Mark~D.}{M.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{TMHMD1}
+  \strng{fullhash}{TMHMD1}
+  \field{sortinit}{T}
+  \verb{doi}
+  \verb 10.1145/195470.195531
+  \endverb
+  \field{issn}{0362-1340}
+  \field{number}{11}
+  \field{pages}{171\bibrangedash 182}
+  \field{title}{Surpassing the TLB Performance of Superpages with Less
+  Operating System Support}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/195470.195531
+  \endverb
+  \field{volume}{29}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGPLAN Not.}
+  \field{month}{11}
+  \field{year}{1994}
+\endentry
+
+\entry{gandhi57}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Waldspurger}{W.}%
+     {Carl~A.}{C.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{WCA1}
+  \strng{fullhash}{WCA1}
+  \field{sortinit}{W}
+  \verb{doi}
+  \verb 10.1145/844128.844146
+  \endverb
+  \field{issn}{0163-5980}
+  \field{number}{SI}
+  \field{pages}{181\bibrangedash 194}
+  \field{title}{Memory Resource Management in VMware ESX Server}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/844128.844146
+  \endverb
+  \field{volume}{36}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGOPS Oper. Syst. Rev.}
+  \field{month}{12}
+  \field{year}{2002}
+\endentry
+
+\entry{gandhi101}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Wang}{W.}%
+     {Xiaolin}{X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zang}{Z.}%
+     {Jiarui}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {Zhenlin}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Luo}{L.}%
+     {Yingwei}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Xiaoming}{X.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \keyw{dynamic switching, hardware assisted paging, hardware-assisted
+  virtualization, shadow paging, virtual machine}
+  \strng{namehash}{WX+1}
+  \strng{fullhash}{WXZJWZLYLX1}
+  \field{sortinit}{W}
+  \verb{doi}
+  \verb 10.1145/2007477.1952710
+  \endverb
+  \field{issn}{0362-1340}
+  \field{number}{7}
+  \field{pages}{217\bibrangedash 226}
+  \field{title}{Selective Hardware/Software Memory Virtualization}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/2007477.1952710
+  \endverb
+  \field{volume}{46}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{journaltitle}{SIGPLAN Not.}
+  \field{month}{03}
+  \field{year}{2011}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
